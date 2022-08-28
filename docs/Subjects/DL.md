@@ -1,18 +1,29 @@
 # Question Pattern
 Chapter 1: Introduction - 6 marks
+
 Chapter 2: Digital logic - 4 marks
+
 Chapter 3: Combinational logic circuits - 8 marks
+
 Chapter 4: Data processing circuits - 10 marks
+
 Chapter 5: Arithmetic Circuits - 8 marks
+
 Chapter 6: Flipflops - 8 marks
+
 Chapter 7: Registers - 4 marks
+
 Chapter 8: Counters - 8 marks
+
 Chapter 9: Sequential Machines- 12 marks
+
 Chapter 10: Digital integrated circuits - 8 marks
+
 Chapter 11: Applications - 4 marks
 
 
-# Chapter 1 (1 QN)
+
+# Chapter 1 
 * Define with examples : Digital signal, analog signal, BCD code, gray code, combinational logic circuit, weighted code, non-weighted code, digital operations
 * Advantages and disadvantages of BCD code
 * Explain gray and excess 3 code with example
@@ -43,14 +54,14 @@ Chapter 11: Applications - 4 marks
 * Construct given boolean function using gates
 * Construct basic gates using only universal gates
 
-<span style="text-decoration:underline;">Chapter 3</span>
+# Chapter 3
 * Simplify the function using k-map and draw the circuit
 * Obtain minimal SOP form
 * Maxterm and minterm with example
 * Minimize the expression and implement the reduced expression 
 * Obtain POS form
 
-<span style="text-decoration:underline;">Chapter 4</span>
+# Chapter 4
 * Design a 32 to 1 multiplexer using 16 to 1 and 2 to 1 multiplexer 
 * Design a 3- bit even parity generator and 4-bit even parity checker circuit
 * Static hazard in combinational circuit, how these hazards can be covered

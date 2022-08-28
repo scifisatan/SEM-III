@@ -1,11 +1,17 @@
 
 # Question Pattern
 Chapter 1: Network Analysis of AC circuit - 8 marks
+
 Chapter 2: Initial Conditions - 8 marks
+
 Chapter 3: Transient analysis by direct solution - 16 marks
+
 Chapter 4: Transient analysis  by Laplace Transfo - 16 marks
+
 Chapter 5: Frequency Response of Network - 8 marks
+
 Chapter 6: Fourier Series and transform - 8 marks
+
 Chapter 7: Two-Port Parameter of Network - 16 marks
 
 

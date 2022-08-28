@@ -1,12 +1,16 @@
 # Question pattern
 Chapter 1: Matrix - 20 marks
+
 Chapter 2: Integration - 20 marks
+
 Chapter 3: Laplace Transform - 15 marks
+
 Chapter 4: Fourier Series - 10 marks
+
 Chapter 5: Simplex/Two Phase/Big M Method - 15 marks 
 
 
-# [[#Questions]]
+# Questions
 
 ### <u>Chapter 1</u>
 ##### Determinant Evaluate
