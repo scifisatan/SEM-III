@@ -15,6 +15,8 @@ Chapter 6 : Power Supplies , Breakdown Diodes and Voltage Regulators - marks
 
 Remaining 10 marks from all subjects
 
+## Useful Links
+- [Bikal Adhikari Lecture Playlist](https://www.youtube.com/playlist?list=PLDdqAl5wWxmSR_tEkucMX1EfUC-8Q_0II)
 
 # Chapter 1:
 
