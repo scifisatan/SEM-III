@@ -5,7 +5,7 @@
 - ## Electromagnetics ([[EM]])
 - ## Electronic Devices & Circuits ([[EDC]])
 - ## Theory of Computation ([[TOC]])
-- ## [[Math\|Mathematics]]
+- ## ([[Math]])
 
 ### Important Links
 - [3rd Semester - Google Drive](https://drive.google.com/drive/folders/1Yev8kONzXLv9RbZtWJKDae_aQEFXYTQ-)
