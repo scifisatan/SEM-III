@@ -147,3 +147,4 @@ Chapter 11: Applications - 4 marks
 * Multiplexing Displays 
 * Frequency Counters 
 * Time Measurement 
+* Digital Clock
