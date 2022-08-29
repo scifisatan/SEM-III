@@ -14,46 +14,43 @@ Chapter 5: Simplex/Two Phase/Big M Method - 15 marks
 # Questions
 
 ### <u>Chapter 1</u>
-##### Determinant Evaluate
-##### Theorem Proof
-##### Rank and its Normal form
-##### Rank and consistency
-##### Cayley-Hamilton and Inverse
+- Determinant Evaluate
+- Theorem Proof
+- Rank and its Normal form
+- Rank and consistency
+- Cayley-Hamilton and Inverse
 - State Cayley-Hamilton theorem
-##### Modal Matrix and Diagonal Matrix
-##### Eigen Values and Eigen Vectors
+- Modal Matrix and Diagonal Matrix
+- Eigen Values and Eigen Vectors
 __________________________________________________
 ### <u>Chapter 2</u>
-##### Verify stoke's theorem
+- Verify stoke's theorem
 - State Stoke's theorem
-##### Evaluate volume integral
-##### Green's theroem
+- Evaluate volume integral
+- Green's theroem
 - State and prove Green's theorem in the plane
 - Evaluate area
-##### Evaluate normal surface integral 
-##### Evaluate using Gauss divegrence theorem
+- Evaluate normal surface integral 
+- Evaluate using Gauss divegrence theorem
 - State Gauss divegence theorem
-##### Show that 
-- Conservative field function
-- irrotational
-##### Scalar potential function
-##### Theorem Proofs
+- Scalar potential function
+- Theorem Proofs
 ________________________________________________
 ### <u>Chapter 3</u>
-##### Laplace transform
-##### Inverse Laplace transform
-##### Solving Differential Equation
-##### Second Shifting theorem proof
+- Laplace transform
+- Inverse Laplace transform
+- Solving Differential Equation
+- Second Shifting theorem proof
 
 ---------------------------------------------------
 ### <u>Chapter 4</u>
-##### Trigonometric Full Range
-##### Half range sine and cosine
+- Trigonometric Full Range
+- Half range sine and cosine
 
 ---
 ### <u>Chapter 5</u>
-##### Graphically
-##### Simplex Method
+- Graphically
+- Simplex Method
 
 
 

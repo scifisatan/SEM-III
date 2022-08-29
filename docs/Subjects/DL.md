@@ -97,17 +97,18 @@ Chapter 11: Applications - 4 marks
 
 
 # Chapter 5
-* N-bit full adder and explain its operation 
-* Fast adder
-* Implement full adder using two half adders
-* Explain working principle of binary multiplication
-* Diagram and operation of adder-subtractor circuit
-* 1’s and 2’s complement method
-* Full-subtractor using suitable demultiplexer and standard gates
-* Full adder circuit using 4:1 Multiplexer
-* Draw the circuit to add 1011 and 1100
-* Explain the operation of two 4 bit parallel adder with diagram
-* Realize full adder circuit using decoder and gates
+* [[N-bit full adder]] and explain its operation 
+* Define [[Fast adder]]. explain with examples
+* [[Implement full adder using two half adders]]
+* Diagram and operation of [[adder-subtractor]] circuit
+* Subtraction from [[ 1’s]] and [[2’s]] complement method
+* [[Full adder circuit using 4 is to 1 Multiplexer]]
+* [[Draw the circuit to add 1011 and 1100]]
+* Explain the operation of two [[4 bit parallel adder]] with diagram
+* [[Realize full adder circuit using 2x4 decoder and gates]]
+* Realize a [[full subtractor circuit by combining only one 1 is to 4 demultiplexer and standard gates]].
+* Design a combinational logic that performs multiplication between two 4 bit number using binary parallel adder and other gates.
+* Explain working principle of [[binary multiplication]]
 
 
 # Chapter 6
@@ -124,7 +125,7 @@ Chapter 11: Applications - 4 marks
 * SIPO circuit, timing diagram, operation explain
 * PISO circuit, timing diagram, operation explain
 * PIPO circuit, timing diagram, operation explain
-* Application of register
+* [[Application of register]]
 
 
 # Chapter 8
@@ -144,6 +145,7 @@ Chapter 11: Applications - 4 marks
 * Design sync. Sequential machine/circuit
 
 # Chapter 11
-* Multiplexing Displays 
-* Frequency Counters 
-* Time Measurement 
+* [[Multiplexing Displays]] 
+* [[Frequency Counters ]]
+* [[Time Measurement ]]
+* Digital Clock
